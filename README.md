@@ -13,8 +13,3 @@ The full project report is included in the repository.
 - Targeted PGD (Task 3)
 - Patch PGD (Task 4)
 - Transferability to DenseNet-121 (Task 5)
-
-## 📁 Dataset
-Use the provided `labels_list.json` file with the test dataset formatted using PyTorch's `ImageFolder`.
-
-## 📦 Requirements
